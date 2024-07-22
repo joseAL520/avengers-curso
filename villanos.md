@@ -2,3 +2,4 @@
 
 * DeathShot
 * Anibal
+* Superman malvado
